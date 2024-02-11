@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lovers+Quarrel&display=swap');
+
 .valentine-container {
   display: flex;
   flex-direction: column;
@@ -5,7 +7,6 @@
   height: 100vh;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Lovers+Quarrel&display=swap');
 .valentine-container .thankgod {
   font-family: 'Lovers Quarrel', cursive;
   font-size: 30px;
