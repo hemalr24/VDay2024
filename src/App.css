@@ -1,0 +1,56 @@
+.valentine-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lovers+Quarrel&display=swap');
+.valentine-container .thankgod {
+  font-family: 'Lovers Quarrel', cursive;
+  font-size: 30px;
+  color: deeppink;
+  text-align: center;
+}
+
+.valentine-container .question {
+  font-family : 'Lovers Quarrel', cursive;
+  font-size : 20px;
+  color: deeppink;
+  text-align: center;
+}
+
+/* styles.css */
+
+.yesButton,
+.noButton {
+  margin-top: 10px;
+  border-radius: 10px; /* Rounded corners */
+  background-color: #ff7a93; /* Pink background color */
+  font-family: 'Lovers Quarrel', cursive; /* Lovers Quarrel font */
+  padding: 10px 20px; /* Padding around text */
+  color: white; /* White text color */
+  border: none; /* No border */
+  cursor: pointer; /* Show pointer cursor on hover */
+  margin-bottom: 10px; /* Add some space below the button */
+}
+
+.yesButton:hover,
+.noButton:hover {
+  background-color: #f15978; /* Lighter pink on hover */
+}
+
+.yesButton:active,
+.noButton:active {
+  background-color: #ef2c51; /* Even lighter pink when button is clicked */
+}
+
+.noButton {
+  margin-left: 5px;
+}
+
+body {
+  background-image: url('background/Pink.png');
+  background-repeat: repeat;
+  background-size: auto;
+}
