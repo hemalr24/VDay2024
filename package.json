@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "name": "react-vite-ts",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "dependencies": {
