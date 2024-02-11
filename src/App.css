@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lovers+Quarrel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
 
 .valentine-container {
   display: flex;
@@ -8,14 +8,14 @@
 }
 
 .valentine-container .thankgod {
-  font-family: 'Lovers Quarrel', cursive;
+  font-family: 'Lato';
   font-size: 30px;
   color: deeppink;
   text-align: center;
 }
 
 .valentine-container .question {
-  font-family : 'Lovers Quarrel', cursive;
+  font-family : 'Lato';
   font-size : 20px;
   color: deeppink;
   text-align: center;
@@ -28,7 +28,7 @@
   margin-top: 10px;
   border-radius: 10px; /* Rounded corners */
   background-color: #ff7a93; /* Pink background color */
-  font-family: 'Lovers Quarrel', cursive; /* Lovers Quarrel font */
+  font-family: 'Lato', cursive; /* Lovers Quarrel font */
   padding: 10px 20px; /* Padding around text */
   color: white; /* White text color */
   border: none; /* No border */
