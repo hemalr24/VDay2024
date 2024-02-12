@@ -9,7 +9,7 @@
   },
   "homepage": "https://hemalr24.github.io/VDay2024/",
   "name": "react-vite-ts",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "dependencies": {
