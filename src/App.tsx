@@ -61,7 +61,7 @@ function App() {
                   alt="kittycat"
                   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2pqaTRzcWRuNDA5cHRnN3ZhcHZzYzV2MjBqZ2h0dHp0dnBxdDY4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qFmdpUKAFZ6rMobzzu/giphy.gif"
               />
-              <div className="thankgod">YAYYYYYYY YIPPEEEEEE YIPPPEEEEEEEEEE!</div>
+              <div className="thankgod">YAYYYYYYY YIPPEEEEEE YIPPPEEEEEEEEEE!!!!!!!!!!!!</div>
             </>
         ) : (
             <>
