@@ -30,7 +30,7 @@ function App() {
   const [yesCount, setYesCount] = useState(0)
   const [yesPressed, setYesPressed] = useState(false);
   const [preYesPressed, setPreYesPressed] = useState(false);
-  const yesButtonSize = noCount * 20 + 16;
+  const yesButtonSize = noCount * 19 + 16;
 
   function handleNoClick() {
     setNoCount(noCount + 1);

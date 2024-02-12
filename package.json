@@ -1,5 +1,4 @@
 {
-  "homepage": "https://hemalr24.github.io/VDay2024/",
   "scripts": {
     "predeploy": "yarn build",
     "deploy": "yarn build && gh-pages -b gh-pages -d dist",
@@ -8,8 +7,9 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
+  "homepage": "https://hemalr24.github.io/VDay2024/",
   "name": "react-vite-ts",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "dependencies": {
@@ -20,7 +20,7 @@
   "devDependencies": {
     "@types/node": "^20.11.17",
     "@types/react": "^18.2.51",
-    "@types/react-dom": "^18.2.17",
+    "@types/react-dom": "^18.2.19",
     "@typescript-eslint/eslint-plugin": "^6.20.0",
     "@typescript-eslint/parser": "^6.20.0",
     "@vitejs/plugin-react": "^4.2.1",
@@ -28,7 +28,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
     "gh-pages": "^6.1.1",
-    "typescript": "^5.2.2",
+    "typescript": "^5.3.3",
     "vite": "^5.0.12"
   }
 }
