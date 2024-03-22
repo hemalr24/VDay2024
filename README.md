@@ -1,5 +1,5 @@
-# VDat2024 For Mishti!
+# VDay2024 For Mishti!
 
-Asking da best girl eva to be my valentines...
+For Mish...
 
 https://hemalr24.github.io/VDay2024/
